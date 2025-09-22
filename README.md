@@ -1,7 +1,7 @@
 # Portuguese
 
-Minhas anotacoes e codigos do curso de agentes do hugging face [link do curos](https://huggingface.co/learn/agents-course) <br>
-esse repositorio tera anotacoes publicadas no blog mldump em ambas as linguas[link do meu blog](https://www.mldump.com) <br>
+Minhas anotacoes e codigos do curso de agentes do hugging face [link do curso](https://huggingface.co/learn/agents-course) <br>
+esse repositorio tera anotacoes publicadas no blog mldump em ambas as linguas [link do meu blog](https://www.mldump.com) <br>
 
 cada diretorio e uma unidade e estara em portugues e ingles
 
