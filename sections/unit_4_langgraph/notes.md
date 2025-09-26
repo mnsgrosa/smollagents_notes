@@ -98,7 +98,6 @@ edges have two types direct goes from a to b and conditional, choose the next ba
 
 Container with entire agent workflow
 
-```
 from IPython.display import Image, display
 from langgraph.graph import StateGraph, START, END
 
@@ -116,12 +115,3 @@ builder.add_edge("node_3", END)
 
 # Add
 graph = builder.compile()
-```
-
-This not only can be visualized but also invoked
-
-```
-graph.invoke({"graph_state":"Hi, this is lance"})
-```
-
-## First agent
